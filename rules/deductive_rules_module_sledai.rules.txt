@@ -1,0 +1,4 @@
+LOW ME7 => HIGH SLEDAI_binarized
+LOW SLEDAI_binarized => HIGH ME7
+HIGH ME7 => LOW SLEDAI_binarized
+HIGH SLEDAI_binarized => LOW ME7
